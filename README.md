@@ -50,6 +50,6 @@ Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 ---
 
 ## 📜 License
-This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. See [LICENSE](./LICENSE) for details.
+This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. See [LICENSE](./LICENSE.md) for details.
 
 **Written by Umang Yadav** *With the assistance of AI (Gemini & Claude)*
